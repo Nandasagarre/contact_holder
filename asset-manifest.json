@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/contact_holder/static/css/main.31d6cfe0.css",
+    "main.js": "/contact_holder/static/js/main.aa905ec3.js",
+    "index.html": "/contact_holder/index.html",
+    "main.aa905ec3.js.map": "/contact_holder/static/js/main.aa905ec3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.aa905ec3.js"
+  ]
+}
